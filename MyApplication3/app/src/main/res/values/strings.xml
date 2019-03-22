@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bmd_fisrtapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit">valider</string>
+    <string name="action_about">about</string>
+    <string name="action_help">help</string>
+</resources>
